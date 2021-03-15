@@ -1,6 +1,6 @@
 # Личный проект «YetiCave»
 
-* Студент: [Мария Фахурдинова](https://up.htmlacademy.ru/php/12/user/1612467).
+* Студент: [???](https://up.htmlacademy.ru/php/12/user/1612467).
 * Наставник: `Неизвестно`.
 
 ---
